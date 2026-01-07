@@ -1,0 +1,92 @@
+.first_home {
+    background: url('/assets/images/masjid_home.png');
+    background-size: cover;
+    border-radius: 18px;
+    height: 400px;
+    background-position: center;
+}
+
+h1 {
+    font-family: 'DM Serif Display', serif;
+}
+.namaKota {
+    font-size: 20px;
+}
+
+.jadwalSholat {
+    position: relative;
+    border-radius: 10px;
+    bottom: 55px;
+    box-shadow: 0 4px 2px -2px #ddd;
+}
+
+.header-testi {
+    font-family: 'DM Serif Display', serif;
+}
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.testimonial {
+    padding-bottom: 80px;
+}
+
+.swiper-slide {
+    width: 300px;
+    height: 220px;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+}
+
+.swiper-wrapper .card {
+    min-width: 300px !important;
+    position: relative;
+    border-radius: 0;
+}
+
+.swiper-slide .card-body {
+    padding-top: 35px;
+}
+
+.img-testi {
+    width: 55px !important;
+    position: absolute;
+    top: -20px;
+    left: 15px;
+}
+
+.swiper-slide .text {
+    font-size: 13px;
+}
+
+.swiper-slide hr {
+    margin-top: -7.5px;
+    background-color: #c4c4c4;
+    margin-bottom: 15px;
+}
+
+.swiper-slide .name {
+    margin-bottom: 2.5px;
+    font-weight: 700;
+}
+
+.swiper-slide .role {
+    font-size: 12px;
+    font-weight: 500;
+    color: #969696;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 575.98px) {
+    .jadwalSholat {
+        bottom: 100px;
+    }
+}
+
+

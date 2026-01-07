@@ -1,0 +1,9 @@
+Sistem Informasi Manajemen Reservasi Hotel
+
+Admin
+user: admin
+pas: admin
+
+Operator
+user: operator
+pas: operator
